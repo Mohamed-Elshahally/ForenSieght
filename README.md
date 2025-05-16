@@ -45,6 +45,7 @@ Add your keys to `AnalyzeData.py` and `IPcheck.py` as follows:
 ```python
 API_KEYS = ["<YOUR_VIRUSTOTAL_API_KEYS>"]
 Gemini_Key = ["<YOUR_GEMINI_API_KEYS>"]
+api_key= ["<YOUR_abuseipdb_API_KEY>"] # check_abuseipdb from IPcheck.py 
 ```
 
 ### Directory Structure
