@@ -1,4 +1,4 @@
-# ForenSight - Advanced Cybersecurity Analyzer
+# ForenSieght - Advanced Cybersecurity Analyzer
 
 ForenSight is a comprehensive, multi-threaded cybersecurity analysis tool designed to provide deep insights into system activity, identify potential security threats, and streamline incident response. It integrates data collection, Gemini APIs, and real-time analysis to detect and classify suspicious behaviors across various system components.
 
