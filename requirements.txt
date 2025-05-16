@@ -1,0 +1,5 @@
+pandas
+pefile
+requests
+google-generativeai
+tk
