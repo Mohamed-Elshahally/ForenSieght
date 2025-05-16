@@ -98,6 +98,10 @@ powershell -ExecutionPolicy Bypass -File CollectData.ps1
 * **Protect Your API Keys** - Never commit your API keys to public repositories.
 * **Data Privacy** - Ensure data collection complies with your organization's privacy policies.
 
+## 📄 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
 ## 🙌 Contributing
 
 Feel free to open issues or pull requests to contribute to this project.
